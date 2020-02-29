@@ -1,0 +1,43 @@
+.bg-black{
+	background-color: rgba(14,14,14,1.00);
+}
+.carousel-caption{
+	top: 200px;
+}
+.bg-orange{
+	background-color: #f0644f;
+	color: aliceblue;
+	font-weight: 600;
+	text-align: center;
+	
+}
+.underline
+{
+	padding-left:0;
+	width: 230px;
+	height: 2px;
+	background-color:orangered;
+}
+.bg-light-gray{ 
+	background-color:lightgray;
+	color: black;
+	
+
+}
+.media img
+{
+	max-width: 120px;
+	height: auto;
+}
+.underline-green{
+	width: 190px;
+	height: 5px;
+	background-color:green;
+}
+.blog img{
+	max-width: 200px;
+	height: auto;
+}
+.card-body{
+	text-align: center;
+}
